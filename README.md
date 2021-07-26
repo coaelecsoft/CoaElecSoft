@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coaelecsoft
-- 👀 I’m interested in everthing on the WEB. I deal with web development, professionally, with high quality w3 standards. 
+- 👀 I’m interested in everthing on the WEB. I deal with web development, professionally with high quality using w3 standards. 
 - 🌱 I’m currently learning new WEB technologies
 
 
